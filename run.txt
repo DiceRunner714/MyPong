@@ -1,0 +1,13 @@
+   RUN FILE INPUT
+====================
+
+bash build.bash
+./a.out
+
+====================
+
+-> this file contains
+the run command;
+-> copy paste it on
+your terminal to execute
+.cpp codes
